@@ -1,2 +1,0 @@
-# WEDD
-Planner
